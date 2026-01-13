@@ -203,6 +203,8 @@ html, body{
     border: 1px solid #E0E0E0;
     padding: 16px;
     border-radius: 34px;
+     height: auto;
+    width: auto;
 }
 
 .about-frame1-description, .about-frame2-description{
@@ -722,6 +724,7 @@ html, body{
         text-align: center;
     }
 }
+
 
 
 
