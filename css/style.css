@@ -507,11 +507,19 @@ html, body{
     font-style: normal;
 }
 
-@media(max-width:1024){
+@media(max-width:1024px){
     .our-services-row{
-        display: none;
+        display: block;
+        align-items: center;
+    }
+    .our-services-row1,.our-services-row2{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
     }
 }
+
 
 
 /* testinomal Section css */
@@ -681,14 +689,24 @@ html, body{
 }
 
 @media (max-width:1180px) {
+    .footer-content{
+        padding-bottom: 5%;
+    }
+    .footer-title{
+        font-size: 32px;
+    }
     .quicklink-card{
-        display: block;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content:space-around;
+        align-items: center;
     }
     .footer-section {
         display: block;
         text-align: center;
     }
 }
+
 
 
 
