@@ -166,6 +166,9 @@ html, body{
     .nav-links{
         display:none;
     }
+    ..headertitle-logo{
+        font-size:32px;
+    }
 }
 
 @media(max-width:520px){
@@ -742,6 +745,7 @@ html, body{
         text-align: center;
     }
 }
+
 
 
 
