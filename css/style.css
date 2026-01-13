@@ -391,13 +391,6 @@ html, body{
     margin: 20px;
 }
 
-@media(max-width:768px){
-    .room-card{
-        display:none;
-    }
-}
-
-
 /* our sevices Section CSS */
 
 .our-service-intro{
@@ -688,14 +681,12 @@ html, body{
 }
 
 @media (max-width:1180px) {
-    .quicklink-card{
-        display: none;
-    }
     .footer-section {
         display: none;
     }
 
 }
+
 
 
 
