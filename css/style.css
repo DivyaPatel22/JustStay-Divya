@@ -680,13 +680,14 @@ html, body{
     gap: 10px;
 }
 
-@media (max-width:1180px) {
+/*@media (max-width:1180px) {
     .footer-section {
         display: flex;
         flex-direction: column;
     }
 
-}
+}*/
+
 
 
 
