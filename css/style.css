@@ -191,8 +191,6 @@ html, body{
     align-items: center;
     justify-content: center;
     gap: 117px;
-    width: 100%;
-    height: 100%;
 }
 
 .about-frame2{
@@ -284,6 +282,11 @@ html, body{
         flex-direction: column;
         align-items: center;
         justify-content: center;
+    }
+     .about-frame1-descri1,.about-frame1-descri2,.about-frame1-title,.about-frame2-descri1,.about-frame2-descri2,.about-frame2-title{
+        text-align: center;
+        width: auto;
+        height: auto;
     }
 }
 
@@ -729,6 +732,7 @@ html, body{
         text-align: center;
     }
 }
+
 
 
 
