@@ -682,10 +682,12 @@ html, body{
 
 @media (max-width:1180px) {
     .footer-section {
-        display: none;
+        display: flex;
+        flex-direction: column;
     }
 
 }
+
 
 
 
