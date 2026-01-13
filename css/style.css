@@ -162,7 +162,10 @@ html, body{
     }
     .hero-title{
         font-size: 50px;
-    }      
+    }   
+    .nav-links{
+        display:none;
+    }
 }
 
 @media(max-width:520px){
@@ -739,6 +742,7 @@ html, body{
         text-align: center;
     }
 }
+
 
 
 
