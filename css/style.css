@@ -267,7 +267,7 @@ html, body{
 
     .about-frame2{
        display: flex;
-       flex-direction: column;
+       flex-direction: column-reverse;
        flex-wrap: wrap;
        justify-content: center;
        align-items: center;
@@ -686,6 +686,7 @@ html, body{
     }
 
 }*/
+
 
 
 
