@@ -265,17 +265,13 @@ html, body{
         align-items: center;
     }   
 
-   /* .about-frame2{
+    .about-frame2{
        display: flex;
        flex-direction: column;
        flex-wrap: wrap;
        justify-content: center;
        align-items: center;
     }
-    
-    .about-frame1-descri1,.about-frame1-descri2,.about-frame1-title,.about-frame2-descri1,.about-frame2-descri2,.about-frame2-title{
-        text-align: center;
-    } */
 }
 
 
@@ -690,6 +686,7 @@ html, body{
     }
 
 }*/
+
 
 
 
