@@ -684,12 +684,11 @@ html, body{
 @media (max-width:1180px) {
     .quicklink-card{
         display: none;
-        gap:40px;
     }
     .footer-section {
         display: none;
         text-align: center;
-        padding-left: 20px;
     }
 
 }
+
