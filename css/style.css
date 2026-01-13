@@ -681,7 +681,7 @@ html, body{
     gap: 10px;
 }
 
-@media (max-width:1180px) {
+/*@media (max-width:1180px) {
     .quicklink-card{
         display: none;
     }
@@ -689,6 +689,7 @@ html, body{
         display: none;
     }
 
-}
+}*/
+
 
 
